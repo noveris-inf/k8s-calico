@@ -39,4 +39,4 @@ jobs:
           submodules: false
 
       - name: kustomize
-        run: kustomize .
+        run: kustomize build .
