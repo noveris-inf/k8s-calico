@@ -1,1 +1,1 @@
-# k8s-calico
+# kustomize-calico
