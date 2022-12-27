@@ -1,1 +1,1 @@
-Calico: https://docs.projectcalico.org/manifests/calico.yaml
+Calico: https://raw.githubusercontent.com/projectcalico/calico/v3.24.5/manifests/calico.yaml
